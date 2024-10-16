@@ -31,7 +31,7 @@ My chosen API for this project is **enter here**.
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='ScreenRecording2024-10-11at10.33.10PM-ezgif.com-video-to-gif-converter-2.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
