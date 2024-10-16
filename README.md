@@ -1,20 +1,17 @@
-<!-- (This is a comment) INSTRUCTIONS: Go through this page and fill out any **bolded** entries with their correct values.-->
 
 # AND101 Project 5 - Choose Your Own API
 
-Submitted by: **Your Name Here**
+Submitted by: **Charidi Stevens**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in description (Example: "An app that displays a random character from the Game of Thrones API")**
+**Art API** is an android app that **fecthes **
 
 If I had to describe this project in three (3) emojis, they would be: **emojis here**
 
 ## Application Features
-
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
@@ -25,7 +22,7 @@ The following REQUIRED features are completed:
 
 ## API Choice
 
-My chosen API for this project is **enter here**.
+My chosen API for this project is **[enter here](https://harvardartmuseums.org/collections/api)**.
 
 ## Video Demo
 
@@ -33,20 +30,16 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='ScreenRecording2024-10-11at10.33.10PM-ezgif.com-video-to-gif-converter-2.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **EZGIF**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
 - [peek](https://github.com/phw/peek) for Linux. -->
 
-## Notes
-
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
-
 ## License
 
-Copyright **yyyy** **your name**
+Copyright **2025** **Charidi Stevens**
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
